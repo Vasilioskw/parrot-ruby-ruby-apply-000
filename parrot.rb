@@ -2,4 +2,4 @@
 # returns the phrase
 
 
-Def 
+Def parrot (string = "Squawk!")
