@@ -3,5 +3,5 @@
 
 
 Def parrot (string = "Squawk!")
-puts "string"
+puts"#{string}"
 end
