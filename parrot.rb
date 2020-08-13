@@ -2,7 +2,7 @@
 # returns the phrase
 
 
-Def parrot (string = "Squawk!")
-puts"#{string}"
-"#{string}"
+def parrot(string="Squawk!")
+  puts "#{string}"
+  "#{string}"
 end
